@@ -1,0 +1,10 @@
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise2.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise1.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise3.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise4.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise5.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise6.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise7.dir
+D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
