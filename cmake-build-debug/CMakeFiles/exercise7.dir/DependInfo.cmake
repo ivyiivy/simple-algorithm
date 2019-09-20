@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/extra study/CLionProjects/exercise/Matrix_Chain.c" "D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise7.dir/Matrix_Chain.c.obj"
+  "C:/Users/ivy/Documents/GitHub/simple-algorithm/Matrix_Chain.c" "C:/Users/ivy/Documents/GitHub/simple-algorithm/cmake-build-debug/CMakeFiles/exercise7.dir/Matrix_Chain.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

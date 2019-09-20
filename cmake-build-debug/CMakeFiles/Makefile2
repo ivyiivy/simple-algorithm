@@ -58,10 +58,10 @@ RM = C:\Users\ivy\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6262.62\bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\extra study\CLionProjects\exercise"
+CMAKE_SOURCE_DIR = C:\Users\ivy\Documents\GitHub\simple-algorithm
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\extra study\CLionProjects\exercise\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/exercise2.dir
@@ -70,7 +70,7 @@ CMAKE_BINARY_DIR = "D:\extra study\CLionProjects\exercise\cmake-build-debug"
 CMakeFiles/exercise2.dir/all:
 	$(MAKE) -f CMakeFiles\exercise2.dir\build.make CMakeFiles/exercise2.dir/depend
 	$(MAKE) -f CMakeFiles\exercise2.dir\build.make CMakeFiles/exercise2.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=5,6 "Built target exercise2"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=5,6 "Built target exercise2"
 .PHONY : CMakeFiles/exercise2.dir/all
 
 # Include target in all.
@@ -80,9 +80,9 @@ all: CMakeFiles/exercise2.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise2.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise2.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise2.dir/rule
 
 # Convenience name for target.
@@ -107,7 +107,7 @@ clean: CMakeFiles/exercise2.dir/clean
 CMakeFiles/exercise.dir/all:
 	$(MAKE) -f CMakeFiles\exercise.dir\build.make CMakeFiles/exercise.dir/depend
 	$(MAKE) -f CMakeFiles\exercise.dir\build.make CMakeFiles/exercise.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target exercise"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target exercise"
 .PHONY : CMakeFiles/exercise.dir/all
 
 # Include target in all.
@@ -117,9 +117,9 @@ all: CMakeFiles/exercise.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise.dir/rule
 
 # Convenience name for target.
@@ -144,7 +144,7 @@ clean: CMakeFiles/exercise.dir/clean
 CMakeFiles/exercise1.dir/all:
 	$(MAKE) -f CMakeFiles\exercise1.dir\build.make CMakeFiles/exercise1.dir/depend
 	$(MAKE) -f CMakeFiles\exercise1.dir\build.make CMakeFiles/exercise1.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=3,4 "Built target exercise1"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=3,4 "Built target exercise1"
 .PHONY : CMakeFiles/exercise1.dir/all
 
 # Include target in all.
@@ -154,9 +154,9 @@ all: CMakeFiles/exercise1.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise1.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise1.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise1.dir/rule
 
 # Convenience name for target.
@@ -181,7 +181,7 @@ clean: CMakeFiles/exercise1.dir/clean
 CMakeFiles/exercise3.dir/all:
 	$(MAKE) -f CMakeFiles\exercise3.dir\build.make CMakeFiles/exercise3.dir/depend
 	$(MAKE) -f CMakeFiles\exercise3.dir\build.make CMakeFiles/exercise3.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=7,8 "Built target exercise3"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=7,8 "Built target exercise3"
 .PHONY : CMakeFiles/exercise3.dir/all
 
 # Include target in all.
@@ -191,9 +191,9 @@ all: CMakeFiles/exercise3.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise3.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise3.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise3.dir/rule
 
 # Convenience name for target.
@@ -218,7 +218,7 @@ clean: CMakeFiles/exercise3.dir/clean
 CMakeFiles/exercise4.dir/all:
 	$(MAKE) -f CMakeFiles\exercise4.dir\build.make CMakeFiles/exercise4.dir/depend
 	$(MAKE) -f CMakeFiles\exercise4.dir\build.make CMakeFiles/exercise4.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=9,10 "Built target exercise4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=9,10 "Built target exercise4"
 .PHONY : CMakeFiles/exercise4.dir/all
 
 # Include target in all.
@@ -228,9 +228,9 @@ all: CMakeFiles/exercise4.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise4.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise4.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise4.dir/rule
 
 # Convenience name for target.
@@ -255,7 +255,7 @@ clean: CMakeFiles/exercise4.dir/clean
 CMakeFiles/exercise5.dir/all:
 	$(MAKE) -f CMakeFiles\exercise5.dir\build.make CMakeFiles/exercise5.dir/depend
 	$(MAKE) -f CMakeFiles\exercise5.dir\build.make CMakeFiles/exercise5.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=11,12 "Built target exercise5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=11,12 "Built target exercise5"
 .PHONY : CMakeFiles/exercise5.dir/all
 
 # Include target in all.
@@ -265,9 +265,9 @@ all: CMakeFiles/exercise5.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise5.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise5.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise5.dir/rule
 
 # Convenience name for target.
@@ -292,7 +292,7 @@ clean: CMakeFiles/exercise5.dir/clean
 CMakeFiles/exercise6.dir/all:
 	$(MAKE) -f CMakeFiles\exercise6.dir\build.make CMakeFiles/exercise6.dir/depend
 	$(MAKE) -f CMakeFiles\exercise6.dir\build.make CMakeFiles/exercise6.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=13,14 "Built target exercise6"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=13,14 "Built target exercise6"
 .PHONY : CMakeFiles/exercise6.dir/all
 
 # Include target in all.
@@ -302,9 +302,9 @@ all: CMakeFiles/exercise6.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise6.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise6.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise6.dir/rule
 
 # Convenience name for target.
@@ -329,7 +329,7 @@ clean: CMakeFiles/exercise6.dir/clean
 CMakeFiles/exercise7.dir/all:
 	$(MAKE) -f CMakeFiles\exercise7.dir\build.make CMakeFiles/exercise7.dir/depend
 	$(MAKE) -f CMakeFiles\exercise7.dir\build.make CMakeFiles/exercise7.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" --progress-num=15,16 "Built target exercise7"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=15,16 "Built target exercise7"
 .PHONY : CMakeFiles/exercise7.dir/all
 
 # Include target in all.
@@ -339,9 +339,9 @@ all: CMakeFiles/exercise7.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/exercise7.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise7.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles/exercise7.dir/rule
 
 # Convenience name for target.
@@ -356,6 +356,43 @@ CMakeFiles/exercise7.dir/clean:
 
 # clean rule for target.
 clean: CMakeFiles/exercise7.dir/clean
+
+.PHONY : clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/exercise8.dir
+
+# All Build rule for target.
+CMakeFiles/exercise8.dir/all:
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/depend
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles --progress-num=17,18 "Built target exercise8"
+.PHONY : CMakeFiles/exercise8.dir/all
+
+# Include target in all.
+all: CMakeFiles/exercise8.dir/all
+
+.PHONY : all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/exercise8.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 2
+	$(MAKE) -f CMakeFiles\Makefile2 CMakeFiles/exercise8.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
+.PHONY : CMakeFiles/exercise8.dir/rule
+
+# Convenience name for target.
+exercise8: CMakeFiles/exercise8.dir/rule
+
+.PHONY : exercise8
+
+# clean rule for target.
+CMakeFiles/exercise8.dir/clean:
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/clean
+.PHONY : CMakeFiles/exercise8.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/exercise8.dir/clean
 
 .PHONY : clean
 

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/extra study/CLionProjects/exercise/String_Loop_Shift.c" "D:/extra study/CLionProjects/exercise/cmake-build-debug/CMakeFiles/exercise2.dir/String_Loop_Shift.c.obj"
+  "C:/Users/ivy/Documents/GitHub/simple-algorithm/String_Loop_Shift.c" "C:/Users/ivy/Documents/GitHub/simple-algorithm/cmake-build-debug/CMakeFiles/exercise2.dir/String_Loop_Shift.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

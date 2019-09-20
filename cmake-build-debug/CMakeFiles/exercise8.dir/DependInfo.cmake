@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/ivy/Documents/GitHub/simple-algorithm/Sum of two numbers.c" "C:/Users/ivy/Documents/GitHub/simple-algorithm/cmake-build-debug/CMakeFiles/exercise.dir/Sum_of_two_numbers.c.obj"
+  "C:/Users/ivy/Documents/GitHub/simple-algorithm/Hello World.c" "C:/Users/ivy/Documents/GitHub/simple-algorithm/cmake-build-debug/CMakeFiles/exercise8.dir/Hello_World.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

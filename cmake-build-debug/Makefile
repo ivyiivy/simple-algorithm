@@ -47,10 +47,10 @@ RM = C:\Users\ivy\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.6262.62\bi
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "D:\extra study\CLionProjects\exercise"
+CMAKE_SOURCE_DIR = C:\Users\ivy\Documents\GitHub\simple-algorithm
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "D:\extra study\CLionProjects\exercise\cmake-build-debug"
+CMAKE_BINARY_DIR = C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -79,9 +79,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles\progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles\progress.marks
 	$(MAKE) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "D:\extra study\CLionProjects\exercise\cmake-build-debug\CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ivy\Documents\GitHub\simple-algorithm\cmake-build-debug\CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -213,6 +213,19 @@ exercise7/fast:
 	$(MAKE) -f CMakeFiles\exercise7.dir\build.make CMakeFiles/exercise7.dir/build
 .PHONY : exercise7/fast
 
+#=============================================================================
+# Target rules for targets named exercise8
+
+# Build rule for target.
+exercise8: cmake_check_build_system
+	$(MAKE) -f CMakeFiles\Makefile2 exercise8
+.PHONY : exercise8
+
+# fast build rule for target.
+exercise8/fast:
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/build
+.PHONY : exercise8/fast
+
 BMH.obj: BMH.c.obj
 
 .PHONY : BMH.obj
@@ -266,6 +279,33 @@ Brute_Force.s: Brute_Force.c.s
 Brute_Force.c.s:
 	$(MAKE) -f CMakeFiles\exercise1.dir\build.make CMakeFiles/exercise1.dir/Brute_Force.c.s
 .PHONY : Brute_Force.c.s
+
+Hello_World.obj: Hello_World.c.obj
+
+.PHONY : Hello_World.obj
+
+# target to build an object file
+Hello_World.c.obj:
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/Hello_World.c.obj
+.PHONY : Hello_World.c.obj
+
+Hello_World.i: Hello_World.c.i
+
+.PHONY : Hello_World.i
+
+# target to preprocess a source file
+Hello_World.c.i:
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/Hello_World.c.i
+.PHONY : Hello_World.c.i
+
+Hello_World.s: Hello_World.c.s
+
+.PHONY : Hello_World.s
+
+# target to generate assembly for a file
+Hello_World.c.s:
+	$(MAKE) -f CMakeFiles\exercise8.dir\build.make CMakeFiles/exercise8.dir/Hello_World.c.s
+.PHONY : Hello_World.c.s
 
 KMP.obj: KMP.c.obj
 
@@ -438,12 +478,13 @@ help:
 	@echo ... exercise2
 	@echo ... exercise
 	@echo ... exercise1
-	@echo ... edit_cache
 	@echo ... exercise3
 	@echo ... exercise4
 	@echo ... exercise5
 	@echo ... exercise6
 	@echo ... exercise7
+	@echo ... exercise8
+	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... BMH.obj
 	@echo ... BMH.i
@@ -451,6 +492,9 @@ help:
 	@echo ... Brute_Force.obj
 	@echo ... Brute_Force.i
 	@echo ... Brute_Force.s
+	@echo ... Hello_World.obj
+	@echo ... Hello_World.i
+	@echo ... Hello_World.s
 	@echo ... KMP.obj
 	@echo ... KMP.i
 	@echo ... KMP.s
